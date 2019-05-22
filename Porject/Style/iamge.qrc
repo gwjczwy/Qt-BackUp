@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/Administrator/Desktop/无标题.png</file>
+        <file>C:/Users/Administrator/Desktop/1.jpg</file>
+        <file>C:/Users/Administrator/Desktop/2.jpg</file>
+    </qresource>
+</RCC>
